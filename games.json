@@ -1,0 +1,522 @@
+{
+    "name": "iApps | Games",
+    "identifier": "iapps.games",
+    "sourceLinkTitle": "iApps Games",
+    "sourceAuthor" : "iApps | Games",
+    "sourceUrlLink" : "     ",
+	"sourceImage": "     ",
+    "appCategories": [
+        "iApps Games Source"
+    ],
+    "apps": [
+
+        {
+            "name": "DuckTales",
+            "version": "1.0.2",
+            "downloadURL": "https://www.dropbox.com/s/408nzxwpvarht04/DuckTales%201.0.2%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": " DuckTales: Remastered - это красочный, нарисованный вручную ремейк одной из самых милых сердцу 8-битных игр всех времен.",
+            "versionDate": "2022-09-02T17:00:00+0300",
+            "iconURL": "https://pdacdn.com/app/59522d5fd25b3/utinyie-istorii.png",
+            "size": 1056964608,
+        },
+        
+        
+        {
+            "name": "PPSSPP",
+            "version": "1.13.1",
+            "downloadURL": "https://www.dropbox.com/s/j7c4bp1w5j6a1rn/PPSSPP%201.13.1%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "PPSSPP - эмулятор портативной консоли PSP на устройствах iOS.",
+            "versionDate": "2022-09-02T19:00:00+0300",
+            "iconURL": "https://www.ppsspp.org/img/ppsspp-icon.png",
+            "size": 34183578 ,
+        },
+
+
+        {
+            "name": "Provenance",
+            "version": "2.1.1",
+            "downloadURL": "https://www.dropbox.com/s/d9g2xk8nqadsv05/Provenance%202.1.1%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Provenance - эмулятор консолей(PS1, Nintendo, Sega, Atari, BAndai) на устройствах iOS. \n\n❗️Для эмуляции некоторых консолей нужны BIOS файлы! Инструкцию по установке игр можно запросить в чате.",
+            "versionDate": "2022-09-02T19:00:00+0300",
+            "iconURL": "https://ds-blobs-4.cdn.devapps.ru/25026459.png",
+            "size": 34183578 ,
+        },
+
+
+        {
+            "name": "GRID: Autosport",
+            "version": "1.9.3",
+            "downloadURL": "https://www.dropbox.com/s/7e3rkp5mp0nn4ow/GRID%20Autosport%201.9.3%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "GRID Autosport – отличная гоночная игра для iOS, категории ААА от студии Codemasters.",
+            "versionDate": "2022-09-02T19:00:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/76/87/7c/76877cec-b5ff-a8ae-dffa-f0710b23bc67/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+            "size": 4005057004 ,
+        },
+
+
+        {
+            "name": "XCOM: Enemy Within",
+            "version": "1.4.0",
+            "downloadURL": "https://www.dropbox.com/s/wvv24seeas1xw2e/XCOM%20Enemy%20Within%201.4.0%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "XCOM: Enemy Within – отдельное дополнение для одной из лучших пошаговых стратегий 2012 года XCOM: Enemy Unknown.",
+            "versionDate": "2022-09-02T19:00:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/d0/62/f8/d062f833-ce93-1cc1-0e95-15280405a0c0/mzl.dxmttpjm.png/246x0w.png",
+            "size": 3511135764 ,
+        },
+
+
+        {
+            "name": "XCOM 2 Collection",
+            "version": "1.4.7",
+            "downloadURL": "https://www.dropbox.com/s/s30uiu7vhvjiioc/XCOM%202%20Collection%201.4.7%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "XCOM 2 Collection - пришельцы правят на Земле, обещая радужное будущее тем, кто подчинится им и их новому порядку, и подавляя любое инакомыслие среди несогласных. Тем временем на самых задворках мира собираются с силами разрозненные отряды XCOM, чтобызащитить человечество, начать глобальное Сопротивление и вернуть себе планету.",
+            "versionDate": "2022-09-03T22:00:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/23/48/30/234830e7-6302-8c02-85c1-9fc490dd39e6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+            "size": 1997159793 ,
+        },
+
+
+        {
+            "name": "Minecraft",
+            "version": "1.19.20",
+            "downloadURL": "https://www.dropbox.com/s/ak6l12tla0j5mt3/Minecraft%201.19.20%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "⚠️ В игре не работает онлайн, только одиночная игра!              Minecraft - представляет из себя строительную песочницу, в которой вы вольны заниматься своими делами как только захотите. Симулятор жизни, в которой Вы играете огромную роль в виде строителя мира!",
+            "versionDate": "2022-09-02T19:00:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/cf/76/2c/cf762cb9-3327-8bee-21f9-1a6d6593cd7d/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+            "size": 824180736 ,
+        },
+
+
+        {
+            "name": "60 Seconds! Atomic Adventure",
+            "version": "1.27.9",
+            "downloadURL": "https://www.dropbox.com/s/qwvpv3x9oj7rrmh/60%20Seconds%21%20Atomic%20Adventure%201.27.9%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "60 Seconds! - это чёрная комедия о выживании и приключениях в условиях ядерного взрыва. Собери запасы и спаси свою семью до того, как взорвётся бомба. Выживи в своём противоатомном убежище. Принимай трудные решения, разделяй запасы и воюй с тараканами.",
+            "versionDate": "2022-09-02T19:00:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/87/db/a887db60-5b5e-14d4-5096-2647579c5809/AppIcon-0-0-1x_U007emarketing-0-0-0-9-85-220-0.png/246x0w.png",
+            "size": 320864256 ,
+        },
+
+
+        {
+            "name": "60 Seconds! Reatomized",
+            "version": "1.2.2",
+            "downloadURL": "https://www.dropbox.com/s/crllsowcjwz7j5z/60%20Seconds%20Reatomized%201.2.2%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Долорес, Тед, Мэри Джейн и Тимми возвращаются на праздник радиоактивного апокалипсиса в новом, улучшенном издании классической термоядерной игры-приключения!",
+            "versionDate": "2022-09-10T15:00:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/13/40/36/13403693-9b9f-754f-6908-b524732a6535/PlayerIcon.png/246x0w.png",
+            "size": 421527552 ,
+        },
+
+
+        {
+            "name": "60 Parsecs!",
+            "version": "1.1.4",
+            "downloadURL": "https://www.dropbox.com/s/twjj40zyn3rqtlp/60%20Parsecs%21%201.1.4%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "60 Parsecs! - игра в жанре стратегия, выпущенная в 2018 году независимой студией Robot Gentleman. Является продолжением игры 60 Seconds!",
+            "versionDate": "2022-09-04T13:45:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/39/b1/f239b1cb-796b-e8b8-b8df-40cdc1a3867e/PlayerIcon.png/246x0w.png",
+            "size": 659764019 ,
+        },
+
+
+        {
+            "name": "Alien: Blackout",
+            "version": "2.0",
+            "downloadURL": "https://www.dropbox.com/s/hk4w65zk4zsp9mf/Alien%20Blackout%202.0%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "В Alien: Blackout Чужой становится пугающе реалистичным... Alien: Blackout представляет собой уникальный хоррор для мобильных платформ, который одинаково понравится и прожженным любителям ужасов, и фанатам «Чужого» — здесь ваша жизнь может оборваться в любую секунду.",
+            "versionDate": "2022-09-03T21:16:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/45/58/47/4558471f-d213-a59b-5882-8b9dc8536100/AppIcon-0-1x_U007emarketing-0-85-220-7.png/246x0w.png",
+            "size": 545259520 ,
+        },
+
+
+        {
+            "name": "Alien: Isolation",
+            "version": "1.2.2",
+            "downloadURL": "https://www.dropbox.com/s/gw25f81qy7bfa8j/Alien%20Isolation%201.2.2%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Ощутите подлинный страх в мире Alien: Isolation - триллере с атмосферой ужаса и смертельной угрозы...",
+            "versionDate": "2022-09-03T21:45:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/6d/90/e8/6d90e8ed-f4d9-a967-779d-8a61b960ff71/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+            "size": 1964947538 ,
+        },
+
+
+        {
+            "name": "Planescape Torment",
+            "version": "3.1.3",
+            "downloadURL": "https://www.dropbox.com/s/s7i8y4t7b6ayv3n/Planescape%20Torment%203.1.3%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Planescape Torment - переиздание одной из величайших игр в истории РПГ индустрии компьютерных игр. ",
+            "versionDate": "2022-09-04T10:45:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/0e/12/7c/0e127cdc-92d2-b1c5-743a-9e7cdb49b349/mzl.xtdjxtos.png/246x0w.png",
+            "size": 1793148846 ,
+        },
+
+
+        {
+            "name": "Final Fantasy - old",
+            "version": "1.1.5",
+            "downloadURL": "https://www.dropbox.com/s/ucb5assswowlyc8/Final%20Fantasy%201%28old%29%201.1.5%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Final Fantasy - консольная игра в жанре JRPG. Была выпущена в Японии компанией Square Co., Ltd. для Nintendo Entertainment System в 1987 году и положила начало ведущему бренду Square Enix - серии Final Fantasy.",
+            "versionDate": "2022-09-04T10:50:00+0300",
+            "iconURL": "https://myoa.ru/wp-content/uploads/2021/02/460x0w-2021-02-20t002127.611.png",
+            "size": 117230797 ,
+        },
+
+
+        {
+            "name": "Final Fantasy - Remastered",
+            "version": "1.0.3",
+            "downloadURL": "https://www.dropbox.com/s/dfjakqqxb3qoyms/Final%20Fantasy%201%201.0.3%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Переработанное 2D-издание первой игры знаменитой серии FINAL FANTASY! Нестареющая история, дополненная чарующей графикой в стиле ретро. Вся прелесть оригинала в сочетании с улучшенным управлением.",
+            "versionDate": "2022-09-18T11:30:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/3b/2b/2e3b2b55-b329-b6fe-48c3-17c3ecb0b8bb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/246x0w.png",
+            "size": 647915110 ,
+        },
+
+
+        {
+            "name": "Final Fantasy 2 - old",
+            "version": "1.1.3",
+            "downloadURL": "https://www.dropbox.com/s/tmbun6uoxritjso/Final%20Fantasy%202%28old%29%201.1.3%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "В игре рассказывается горькая история четырёх героев, которые потеряли своих родителей во время вторжения Палмецианской империи. Наши герои решают присоединиться к движению повстанцев, ведущему войну против этой империи...",
+            "versionDate": "2022-09-18T11:50:00+0300",
+            "iconURL": "https://myoa.ru/wp-content/uploads/2021/02/460x0w-2021-02-20t002442.130.png",
+            "size": 202165453 ,
+        },
+
+
+        {
+            "name": "Final Fantasy 2 - Remastered",
+            "version": "1.0.3",
+            "downloadURL": "https://www.dropbox.com/s/rwokgqm89hd6910/Final%20Fantasy%202%201.0.3%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Оригинальная FINAL FANTASY II возвращается с новой графикой и звуком в пиксельном 2D- переиздании!",
+            "versionDate": "2022-09-24T20:40:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/27/9b/c5/279bc59e-7df5-2c72-5585-8dab0f7fd880/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size": 536661197 ,
+        },
+
+
+        {
+            "name": "Final Fantasy 3 - old",
+            "version": "2.0.1",
+            "downloadURL": "https://www.dropbox.com/s/7zsar23nxgiov6m/Final%20Fantasy%203%28old%29%202.0.1%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Final Fantasy III — японская ролевая игра, разработанная и изданная компанией Square (ныне Square Enix) в 1990 году.",
+            "versionDate": "2022-09-24T21:15:00+0300",
+            "iconURL": "https://myoa.ru/wp-content/uploads/2021/02/460x0w-2021-02-20t002659.050.png",
+            "size": 442394214 ,
+        },
+
+
+        {
+            "name": "Final Fantasy 3 - Remastered",
+            "version": "1.0.3",
+            "downloadURL": "https://www.dropbox.com/s/h8ac6xnx8ejv7n4/Final%20Fantasy%203%201.0.3%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Оригинальная FINAL FANTASY III возвращается с новой графикой и звуком в пиксельном 2D- переиздании!",
+            "versionDate": "2022-09-24T21:20:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/c6/08/b7/c608b7f4-f2c0-ea89-cb1b-f4557aeaf519/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size": 729808896 ,
+        },
+
+
+        {
+            "name": "Machinarium",
+            "version": "2.4.3",
+            "downloadURL": "https://www.dropbox.com/s/5kn6nhpxik5sxpr/Machinarium%202.4.3%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Machinarium – это отмеченная наградами независимая приключенческая игра, разработанная творцами игр Samorost, Botanicula и CHUCHEL (ЧУЧЕЛ).",
+            "versionDate": "2022-09-04T12:50:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/99/39/06/9939064e-2a15-1634-8c56-b7202041f3f2/AppIcon-0-1x_U007emarketing-0-85-220-10.png/246x0w.png",
+            "size": 257005978 ,
+        },
+
+
+        {
+            "name": "CASE: Animatronics",
+            "version": "5.0.1",
+            "downloadURL": "https://www.dropbox.com/s/azlocn0trb17ybv/CASE_%20Animatronics%205.0.1%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "CASE: Animatronics - по-настоящему страшный стелс хоррор от первого лица. Анонимный хакер взламывает охранную систему полицейского участка. Электричество отключено. Выходы заблокированы. Металлические шаги все ближе…",
+            "versionDate": "2022-09-04T13:00:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/fc/5c/34/fc5c340b-0321-8654-e2c8-6f5d9f225b02/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/246x0w.png",
+            "size": 199544013 ,
+        },
+
+
+        {
+            "name": "Papers, Please",
+            "version": "1.4.1",
+            "downloadURL": "https://www.dropbox.com/s/rxeppmew6hcmqww/PapersPlease%201.4.1%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Papers, Please - антиутопический документальный триллер. История игры начинается, с того, что вы вступаете на новую должность - инспектор иммиграционной службы.",
+            "versionDate": "2022-09-10T15:15:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/f9/57/9f/f9579fc8-ac7a-dd2b-7b20-4d672c2b168f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+            "size": 59244544 ,
+        },
+
+
+        {
+            "name": "Five Nights at Freddy's: Help Wanted",
+            "version": "1.0.6",
+            "downloadURL": "https://www.dropbox.com/s/qnzx114vp1wa2mi/Five_Nights_at_Freddy%27s_Help_Wanted_1_0_6tg%40iapps_games.ipa?dl=1",
+            "localizedDescription": "Перед вами мобильная версия Five Nights at Freddy's: Help Wanted - сборник классических и оригинальных мини-игр, действие которых происходит в мире Five Nights.",
+            "versionDate": "2022-09-18T11:15:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f4/bf/e9/f4bfe93d-0c79-bf0e-efa0-65502416fac7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+            "size": 866333491 ,
+        },
+
+
+        {
+            "name": "ROME: Total War",
+            "version": "1.10.5",
+            "downloadURL": "https://www.dropbox.com/s/s02sd4idad9h017/Rome%20Total%20War%201.10.5%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Rome Total War - 4X-глобальная стратегическая компьютерная игра, сочетающая жанры пошаговая стратегия и тактика в реальном времени.",
+            "versionDate": "2022-09-18T11:15:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/a4/05/21/a4052129-289d-c311-0f7b-0f4867e4e89f/rome_AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",
+            "size": 3843995730 ,
+        },
+
+
+        {
+            "name": "ROME: Total War - BI",
+            "version": "1.12",
+            "downloadURL": "https://www.dropbox.com/s/yf8ba1gmafmjoo9/Rome%20Total%20War%20-%20Barbarian%20Invasion%201.12%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Rome Total War - Barbarian Invasion - первое официальное дополнение к стратегической игре Rome: Total War охватывающий период Великого переселения народов с 363 г. до 476 г. н. э. Обе половины Римской империи противостоят различным неримским фракциям. По ходу игры возможны самые разные союзы, но для победы большинству фракций необходимо контролировать провинции на территории Рима.",
+            "versionDate": "2022-09-18T11:15:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/1c/85/10/1c851006-d070-1a8e-b8e3-338a0bbe862a/romebi_AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",
+            "size": 3511135764 ,
+        },
+
+
+        {
+            "name": "ROME: Total War - Alexander",
+            "version": "1.13",
+            "downloadURL": "https://www.dropbox.com/s/p3hff5njnpn73m6/Rome%20Total%20War%20-%20Alexander%201.13%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Rome Total War - Alexander - второе официальное дополнение к Rome: Total War, выпущенное летом 2006 года. Feral Interactive выпустила версию для macOS 24 февраля 2017 года, и для iPad - 27 июля 2017 года. Версии игры для iPhone и Android вышли 24 октября 2019 года.",
+            "versionDate": "2022-09-18T11:25:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/b0/b9/1f/b0b91f8c-3765-de1c-a57b-cd2f71022fa8/romealex_AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.png",
+            "size": 3586297692 ,
+        },
+
+
+        {
+            "name": "Worms | Hack",
+            "version": "2.6",
+            "downloadURL": "https://www.dropbox.com/s/7fg6is4i18jl4tq/Worms%202.6%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Worms — компьютерная игра в жанре артиллерийской пошаговой стратегии.",
+            "versionDate": "2022-09-18T11:40:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/f9/dd/fc/f9ddfc63-d2b4-9f2d-fc38-1c351f68ed9d/mzl.aghsarun.png/246x0w.png",
+            "size": 135161446 ,
+        },
+
+
+        {
+            "name": "Poppy Playtime Chapter 1",
+            "version": "2.2",
+            "downloadURL": "https://www.dropbox.com/s/z0k4sg7n4hvenei/PoppyMobile%202.2%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Вы должны остаться в живых в этом приключении ужасов / головоломок. Используйте свой рюкзак, чтобы взломать электрические цепи или захватить что-нибудь издалека. Исследуйте таинственный объект... и не попадитесь.",
+            "versionDate": "2022-09-18T11:55:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/40/e1/ab/40e1abb0-cfcb-1efb-2eac-f8b274028e8c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+            "size": 1419037901 ,
+        },
+
+
+        {
+            "name": "Poppy Playtime Chapter 2",
+            "version": "1.0",
+            "downloadURL": "https://www.dropbox.com/s/9euvwengui3pt18/Poppy%20Playtime%20Chapter%202%201.0%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Эта игра является продолжением нашумевшей игры Poppy Playtime Chapter 1. Больше веселья и страхов...",
+            "versionDate": "2022-09-24T20:50:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/3b/7b/7f/3b7b7fe8-0b80-a83a-38d5-768e0fbe0822/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size": 1438814044 ,
+        },
+
+
+        {
+            "name": "The Escapists: Побег из тюрьмы",
+            "version": "1.1.8",
+            "downloadURL": "https://www.dropbox.com/s/ooeerboul2arpfi/The%20Escapists%201.1.8%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "The Escapists — это увлекательная стратегия-симулятор тюрьмы, в которой нужно вырваться на свободу.",
+            "versionDate": "2022-09-18T12:30:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/29/b6/0b/29b60ba2-956f-a181-8e2f-c2c191d82b7d/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/246x0w.png",
+            "size": 393530573 ,
+        },
+
+
+        {
+            "name": "The Escapists 2: Карманный побег",
+            "version": "1.11",
+            "downloadURL": "https://www.dropbox.com/s/2enoc05xx2f93fz/The%20Escapists%202%201.10.635486%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "The Escapists 2 — это невероятно смешная и захватывающая стратегия, в которой вам предстоит столкнуться с не таким уж простым испытанием: побегом из тюрьмы.",
+            "versionDate": "2022-09-24T17:50:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/17/fe/a517fe3f-20e2-5acb-cba9-eab4d604cf16/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/492x0w.png",
+            "size": 1492501135 ,
+        },
+
+
+        {
+            "name": "Smash Hit | Hack",
+            "version": "1.4.2",
+            "downloadURL": "https://www.dropbox.com/s/pu2qop3my8dskwp/Smash%20Hit%201.4.2%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Отправляйтесь в сюрреалистичное путешествие по другому измерению, перемещайтесь в гармонии с музыкой и звуками и сбивайте все на своем пути!",
+            "versionDate": "2022-09-24T17:30:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/2d/a0/ee/2da0ee20-ed40-9061-c988-e64fc1332949/AppIcon-1x_U007emarketing-0-85-220-0-9.png/492x0w.png",
+            "size": 68367155 ,
+        },
+
+
+        {
+            "name": "Geoguesser | Hack",
+            "version": "2.0",
+            "downloadURL": "https://www.dropbox.com/s/u1993ezycmp3hei/Geoguesser%202.0%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Geoguesser Challenge - это игра-викторина, она отправит вас в случайное место по всему миру. Вы увидите панораму и должны будете угадать местоположение на карте. Исследуйте и подойдите как можно ближе!",
+            "versionDate": "2022-09-24T17:35:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/b3/1a/78/b31a786a-2ef0-f8a2-cfa5-b6a40bae6473/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size": 7340032 ,
+        },
+
+
+        {
+            "name": "Rich Inc | Hack",
+            "version": "1.14.1",
+            "downloadURL": "https://www.dropbox.com/s/wkrkekhe3iza04d/Rich%20Inc%201.14.1%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Представьте, что вы полностью разорены и у вас нет ничего, кроме мечтаний! Как вы собираетесь выбраться из нищеты? Сможете ли вы преодолеть все препятствия и изменить свою жизнь?",
+            "versionDate": "2022-09-24T17:40:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/67/06/11/670611cc-4af1-de73-a20d-9d87d9ec02f2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size": 82103501 ,
+        },
+
+
+        {
+            "name": "Сибирь",
+            "version": "1.1.2",
+            "downloadURL": "https://www.dropbox.com/s/ftfjkb3t2f1nkc4/Syberia%201.1.2%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Only in Russian! \n\nДля молодого и амбициозного адвоката Кейт Уокер элементарное, казалось бы, задание оборачивается невероятным приключением.",
+            "versionDate": "2022-09-24T18:20:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/dd/c9/1a/ddc91ab7-2bcd-4665-6812-0e50e558459f/AppIcon-1x_U007emarketing-0-4-85-220.png/492x0w.png",
+            "size": 2136746230 ,
+        },
+
+
+        {
+            "name": "Сибирь 2",
+            "version": "1.1.2",
+            "downloadURL": "https://www.dropbox.com/s/ofhytnu6roblcww/Syberia%202%201.1.2%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Only in Russian! \n\nПосле долгих поисков потерянного наследника в Восточной и Западной Европе, Кейт Уолкер наконец завершила свой долгий трудный путь, получив подпись Ганса Форальберга и заключив тем самым договор о покупке фабрики автоматонов. Миссия выполнена?",
+            "versionDate": "2022-09-24T18:25:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/72/be/5a/72be5a42-7bb8-daa2-a398-3165f03b3464/AppIcon-1x_U007emarketing-0-4-85-220.png/492x0w.png",
+            "size": 3113851289 ,
+        },
+
+
+        {
+            "name": "Troll Face Quest Video Memes | Hack",
+            "version": "2.1.15",
+            "downloadURL": "https://www.dropbox.com/s/ittvdxdbk57ucbm/Troll%20Quest%20Video%20Memes%202.1.15%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Потренируй смекалку с игрой жанра point- and-click, в которой полно головоломок, шуток и насмешек над всем популярным. На каждом уровне найдется и то, над чем придется поломать голову, и вещи, над которыми можно посмеяться.",
+            "versionDate": "2022-09-24T18:35:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a4/ac/7d/a4ac7d87-3e1b-b565-84bf-993139ed9cc3/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/492x0w.png",
+            "size": 45508198 ,
+        },
+
+
+        {
+            "name": "Troll Face Quest Internet Memes | Hack",
+            "version": "2.1.15",
+            "downloadURL": "https://www.dropbox.com/s/3a4xjf5e71er76q/Troll%20Quest%20Internet%20Memes%202.1.15%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Игра Troll Face Quest возвращается с совершенно новой, увлекательной сенсацией в мире троллинга: Troll Face Quest Memes! Занимайся троллингом в свое удовольствие в этом безумном мире, где знаменитые интернет-мемы будут пытаться довести тебя до грани безумия.",
+            "versionDate": "2022-09-24T21:35:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/5a/60/ad/5a60ad15-075c-5f04-0cf5-e85e4a4dc078/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/492x0w.png",
+            "size": 44774195 ,
+        },
+
+
+        {
+            "name": "Neighbours back From Hell",
+            "version": "1.0",
+            "downloadURL": "https://www.dropbox.com/s/40oulbtuf9m2hc0/Neighbours%20back%20From%20Hell%201.0%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Neighbours back From Hell - это целое телешоу «Соседи из ада», в основу которого положены все более возмутительные розыгрыши над сварливым соседом.",
+            "versionDate": "2022-09-24T18:45:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/7e/63/b9/7e63b9ef-7ca8-c772-f068-3d4ae25ee2fb/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.png",
+            "size": 3113851289 ,
+        },
+
+
+        {
+            "name": "Neighbours From Hell | Hack",
+            "version": "3.5",
+            "downloadURL": "https://www.dropbox.com/s/4s51tzfi58y7yup/Neighbours%20From%20Hell%203.5%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Как достать соседа: Сезон 1 - проберитесь в дом к своему соседу и устройте кучу крутых розыгрышей над ничего не подозревающей жертвой.",
+            "versionDate": "2022-09-24T20:30:00+0300",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/39/e2/ff/39e2ff12-f644-4294-b91e-3e617f8b5374/mzl.uazridog.png/492x0w.png",
+            "size": 295593574 ,
+        },
+
+
+        {
+            "name": "Neighbours From Hell 2 | Hack",
+            "version": "3.6",
+            "downloadURL": "https://www.dropbox.com/s/y0bkqhppe6qsvr0/Neighbours%20From%20Hell%202%203.6%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Реалити-шоу о бурной жизни соседей набирает популярность и переходит на новый уровень! «Любимый» сосед собирается порадовать себя незаслуженным отдыхом. Какой отличный повод для Вуди и съемочной группы проникнуть на круизный лайнер и превратить отпуск мерзкого соседа в сущий ад! На этот раз он взял с собой мамочку, которая не отходит от своего малыша.",
+            "versionDate": "2022-09-24T20:30:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/f2/c4/f0/f2c4f0c2-c6a7-fa7b-9a83-9a8c9ba09d4a/mzl.clhyeohu.png/492x0w.png",
+            "size": 535612621 ,
+        },
+
+
+        {
+            "name": "Slender: The Arrival | Hack",
+            "version": "41",
+            "downloadURL": "https://www.dropbox.com/s/minnyg7wundlec1/Slender%20The%20Arrival%2041%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Slender: The Arrival - официальная адаптация видеоигры Slender Man, разработанная в сотрудничестве с Эриком (Victor Surge) Кнудсоном, создателем паранормального явления, которое пугает любознательных людей по всему миру с момента его создания, с Марком Хэдли и студией Blue Isle Studios.",
+            "versionDate": "2022-09-24T20:10:00+0300",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/4a/8a/8a/4a8a8a29-3bd8-a8f5-2f4b-e81eb4420d0f/AppIcon-1x_U007emarketing-0-9-85-220-0.png/492x0w.png",
+            "size": 847563981 ,
+        },
+
+
+        {
+            "name": "WorldBox | Hack",
+            "version": "0.14.3",
+            "downloadURL": "https://www.dropbox.com/s/9jjn9s2n2z817zo/WorldBox%200.14.3%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "WorldBox - это бесплатная игра - песочница, в которой ты - Бог.",
+            "versionDate": "2022-09-24T20:15:00+0300",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/50/06/075006d5-1ac3-c544-a0a5-b1bdd033c20b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size": 53267661 ,
+        },
+
+
+        {
+            "name": "Don`t Starve: Pocket Edition",
+            "version": "1.47",
+            "downloadURL": "https://www.dropbox.com/s/i2bse8w35231pwc/Don%27t%20Starve%201.47%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Don't Starve: Pocket Edition переносит известный РС-хит, который уже попробовали более 4 миллионов человек, на устройства iPhone и iPad. Теперь вы можете ощутить всю прелесть бескомпромиссной игры на выживание в любой момент!",
+            "versionDate": "2022-09-24T20:55:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/03/29/5e/03295e4c-5637-9419-83e5-e9939e90370c/Normal_Icon-1x_U007emarketing-0-10-0-85-220.png/492x0w.png",
+            "size": 1005164954 ,
+        },
+
+
+        {
+            "name": "Simple Rockets | Hack",
+            "version": "1.6.16",
+            "downloadURL": "https://www.dropbox.com/s/new8gofqw22ob6a/Simple%20Rockets%201.6.16%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Создавайте свои собственные ракетные корабли. Чтобы улететь в космос. Исследуйте солнечную систему. Посмотрите, есть ли у вас то, что нужно, чтобы стать ученым-ракетостроителем.",
+            "versionDate": "2022-09-24T21:00:00+0300",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1e/3a/e1/1e3ae131-dcd6-cf43-71c2-526da819fab5/mzl.tnjypaap.png/492x0w.png",
+            "size": 24222105 ,
+        },
+
+
+        {
+            "name": "Simple Rockets 2 | Hack",
+            "version": "0.9.918",
+            "downloadURL": "https://www.dropbox.com/s/6edttj2mjmd2d2y/Simple%20Rockets%202%200.9.918%5Btg%40iapps_games%5D.ipa?dl=1",
+            "localizedDescription": "Simple Rockets 2 - это полностью 3D космический симулятор, который позволяет вам строить ракеты, самолеты, марсоходы или все, что вы можете себе представить, и исследовать высокодетализированные 3D-планеты.",
+            "versionDate": "2022-09-24T21:05:00+0300",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/11/02/8b/11028bd2-cca8-36a7-0a85-d78c7b185a4f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.png",
+            "size": 392377139 ,
+        },
+
+
+
+       
+    ]
+}
